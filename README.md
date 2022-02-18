@@ -1,6 +1,8 @@
 <!---
 For first part.
 --->
+# Follow me for leetcode problem solution
+# 🚩 [MY LeedCode Reop ](https://github.com/kuntalojha/LeetCode)
 <h1 align="center"><b>Hi, I’m Kuntal Ojha</b> <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
 <!---
@@ -45,7 +47,6 @@ Add image
 <a href = "https://twitter.com/kuntalojha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/c/kuntalojha"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-</p>
 
 <!---
 kuntalojha/kuntalojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
