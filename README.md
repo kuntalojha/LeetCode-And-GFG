@@ -2,7 +2,7 @@
 For first part.
 --->
 # Follow me for leetcode problem solution
-# 🚩 [MY LeedCode Reop ](https://github.com/kuntalojha/LeetCode)
+# 🚩 [My LeedCode Repo ](https://github.com/kuntalojha/LeetCode)
 <h1 align="center"><b>Hi, I’m Kuntal Ojha</b> <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
 <!---
