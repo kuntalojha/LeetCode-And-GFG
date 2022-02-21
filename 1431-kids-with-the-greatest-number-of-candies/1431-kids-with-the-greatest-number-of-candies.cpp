@@ -15,11 +15,11 @@ public:
         {
              if(candies[i]+extraCandies>=max_number)
              {
-                 result.push_back(true);
+                 result.push_back(1);
              }
             else
             {
-                result.push_back(false);
+                result.push_back(0);
             }
         }
         return result;
