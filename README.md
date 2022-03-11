@@ -2,17 +2,22 @@
 For first part.
 --->
 # Follow me for leetcode problem solution
-# 🚩 [My LeedCode Repo ](https://github.com/kuntalojha/LeetCode)
+# 🚩 [My LeedCode And GFG Repo ](https://github.com/kuntalojha/LeetCode-And-GFG/)
 <h1 align="center"><b>Hi, I’m Kuntal Ojha</b> <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
 <!---
 Add image 
 --->
 ![Kuntal](https://user-images.githubusercontent.com/67447627/150199943-bac38664-a36d-48cc-99a6-7ed9023d4776.gif)
-
+<a href="https://github.com/kuntalojha/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kuntalojha">
+</a>
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWBbothFPzmnM-FsrxHuL2g?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/kuntalojha?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kuntalojha?style=social)
+
+<!--
+![Twitter Follow](https://img.shields.io/twitter/follow/@kuntalojha?style=social) 
+-->
 
 <h1>About me</h1>
 
