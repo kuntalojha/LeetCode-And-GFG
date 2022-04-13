@@ -1,13 +1,16 @@
 class Solution {
 public:
     bool checkIfExist(vector<int>& arr) {
-         
-       for(int i=0; i<arr.size(); i++){
-           for(int j=i+1; j<arr.size(); j++){
-               if(arr[i]==2*arr[j] || arr[j]==2*arr[i])
-                   return 1;
-           }
-       }
+        sort(arr.begin(), arr.end());
+        
+        vector<int>::iterator it = arr.begin();
+        for(int i = 0; i < arr.size(); i++){
+            it++;
+            if(arr[i] >= 0 && binary_search(it, arr.end(), arr[i]*2))
+                return 1;
+            else if(arr[i]<0 && binary_search(arr.begin(), it, arr[i]*2))
+                return 1;
+        }
         return 0;
     }
 };
